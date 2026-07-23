@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private notes and tasks
+/personal
+
+# Obsidian local settings & workspace
+.obsidian/
