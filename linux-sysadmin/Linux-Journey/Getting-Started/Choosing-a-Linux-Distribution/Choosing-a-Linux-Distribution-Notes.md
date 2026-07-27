@@ -13,8 +13,8 @@ Updates   -> Stable or point-release distros -> updates are more planned and pre
 		-> Rolling-release distros -> updates are in continuously updating.
 Distros      -> For begginers -> Ubuntu     |
 					-> Linux Mint.  | easy to install and have widely documentation.
-		-> For developers -> Fedora
-					-> Arch
-					-> Gentoo
-		-> Servers and stability -> Debian
-						-> Red Hat Enterprise Linux
+		-> For developers -> Fedora.
+					-> Arch.
+					-> Gentoo.
+		-> Servers and stability -> Debian.
+						-> Red Hat Enterprise Linux.
