@@ -26,7 +26,3 @@
 	- `strings:` Extracts readable text lines from a binary file.
 	- `base64:` Encodes or decodes data using Base64.
 		- `-d:` Decode data.
-
-
-
-password 10 -> 11: pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
