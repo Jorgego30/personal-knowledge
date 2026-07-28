@@ -13,5 +13,3 @@ This challenge gives us a new server instance to connect via ssh and learn how t
 3. Read the first part of the flag with `cat`.
 4. Read instructions with `cat` and navigate to the directory specified by the instructions using `cd`.
 5. Repeat until the flag is complete.
-
-- The automated solution script is available in `solve.sh`.
