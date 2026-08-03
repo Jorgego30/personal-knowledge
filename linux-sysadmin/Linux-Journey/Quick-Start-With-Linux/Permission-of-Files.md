@@ -1,0 +1,15 @@
+	- `chown:` Changes owner.
+		- `owner:group:` Specifies new owner and new group.
+	- `>:` Redirects the output of the command.
+	- `r:` Read permission.
+	- `w:` Write permission.
+	- `x:` Execute permission.
+	- `chmod:` Changes permissions.
+		- `700:` First number for the owner.
+				- Second number for the group.
+				- Third number for other users.
+		-`4:` Read permissions.
+		- `2:` Write permissions.
+		- `1:` Execute permissions.
+		- `0:` No permissions.
+		- `u:` User permissions.
