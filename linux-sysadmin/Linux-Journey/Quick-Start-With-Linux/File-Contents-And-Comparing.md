@@ -1,0 +1,4 @@
+	- `cat:` Displays the content of a file.
+	- `head:` Displays the first lines.
+	- `tail:` Displays the last lines.
+	- `diff:` Displays the difference between files.
