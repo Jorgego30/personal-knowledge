@@ -1,0 +1,7 @@
+	- `useradd:` Creates a new user.
+	- `usermod:` Modifies user settings.
+	- `groups:` Displays the groups a user belongs.
+	- `userdel:` Deletes user account.
+	- `passwd:` Sets or changes a user password.
+	- `/etc/passwd:` Stores user account information.
+	- `/etc/shadowd:` Stores encrypted user passwords and password expiration info.
