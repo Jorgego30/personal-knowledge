@@ -1,0 +1,4 @@
+	- `tar:` Compress multiple files in one single file.
+		- `-e:` Creates new archive.
+		- `-z:` Compress the archive using gzip.
+		- `-f:` Specifies the filename of the archive.
