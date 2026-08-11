@@ -1,0 +1,1 @@
+	- `apropos:` Finds commands related with one word.
