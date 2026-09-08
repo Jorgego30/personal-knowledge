@@ -224,5 +224,5 @@ __marimo__/
 .obsidian/
 
 # Keys
-.crt
-.key
+*.crt
+*.key
