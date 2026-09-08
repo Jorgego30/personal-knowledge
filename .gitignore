@@ -222,3 +222,7 @@ __marimo__/
 
 # Obsidian local settings & workspace
 .obsidian/
+
+# Keys
+.crt
+.key
