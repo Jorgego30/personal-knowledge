@@ -1,5 +1,5 @@
 ###  Creating tables
-- `CREATE TABLE` Creates a new dataase table.
+- `CREATE TABLE` Creates a new datase table.
 - The structure of the new table is defined by its table schema which defines a seires of columns.
 - `IF NOT EXISTS` Skip creating a table if one exists.
 ```
