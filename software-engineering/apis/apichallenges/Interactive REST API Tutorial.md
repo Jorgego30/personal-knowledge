@@ -15,4 +15,14 @@
 		- ```{"title":"learn REST", "doneStatus":false}``` is a JSON representation sent in a request.
 	- a status code reports what happened:
 		- ```200 OK``` means the API returned the request.
- 
+### REST API Resources
+ - In API Challenges API, todo item is a resource.
+ - With curl :
+	  ```curl -i -X GET "https://apichallenges.com/api/todos/7" -H "Accept: application/json"```
+	 - ```-i```: info about petition.
+	 - ```-X```: specifies HTTP method.
+	 - ```-H```: header.
+	 - Response body:  ```id```
+				     ```title```
+					 ```doneStatus```
+					 ```description```
